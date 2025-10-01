@@ -1,0 +1,5 @@
+Nombre: Juan Sebastian Borja Ortiz
+Código: 202362452
+Curos: DS2
+Sede: Zarzal
+Grupo: 51
