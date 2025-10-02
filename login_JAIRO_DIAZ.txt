@@ -1,5 +1,5 @@
--Nombre: Jairo Andrés Diaz
--Código: 2266920
--Curso: Desarrollo de software ll
--Sede: Yumbo
--Grupo: 53
+Nombre: Jairo Diaz
+Código: 2266920
+Curso: Desarrollo de software
+Sede: Yumbo
+Grupo: 53
