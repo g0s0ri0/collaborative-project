@@ -1,0 +1,5 @@
+nombre: Katherine Cardona
+código: 202369643
+curso: MDS
+sede: Zarzal
+grupo:50
