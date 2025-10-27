@@ -1,0 +1,5 @@
+Nombre: Benjamin Rizo Luna
+Código: 2360161
+Curso: Desarrollo de Software 2
+Sede: Yumbo
+Grupo: 53
