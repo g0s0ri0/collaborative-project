@@ -1,0 +1,5 @@
+Nombre = Nicolas Gonzalez Giraldo
+Codigo = 202369652
+Curso = DS2
+Sede = Zarzal
+Grupo = 51
