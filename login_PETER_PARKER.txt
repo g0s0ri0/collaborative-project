@@ -1,0 +1,5 @@
+Nombre: Peter Parker
+Código: xxxxxxx
+Curso: xxxxxxxx
+Sede: Yumbo
+Grupo: 53
